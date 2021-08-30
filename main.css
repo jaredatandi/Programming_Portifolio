@@ -1,0 +1,10 @@
+html{
+    margin: 0 100px 20px 100px;
+    padding: 0;
+    border: 0;
+}
+body{
+    overflow: visible;
+    color: #fff;
+    background-color: #000;
+}
