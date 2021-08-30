@@ -1,4 +1,5 @@
-#Jare Atandi landing page
+#Jare Atandi landing page H1
+
 The programming portfolion is a personal CV landing page that will showcase
 all the projects that I have undertaken in regard to programmin. 
 
