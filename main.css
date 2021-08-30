@@ -49,3 +49,10 @@ a:hover{
     color: crimson;
     
 }
+#email_btn{
+    color: #fff;
+    text-decoration: none;
+}
+#email_btn:hover{
+    color: blueviolet;
+}
