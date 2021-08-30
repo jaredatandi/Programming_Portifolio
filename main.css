@@ -1,11 +1,51 @@
 html{
-    margin: 0 100px 20px 100px;
+    margin: 10px 50px 20px 150px;
     padding: 0;
     border: 0;
+    -webkit-text-size-adjust: 100%;
 }
+/* Layout */
 body{
     overflow: visible;
     color: #fff;
     background-color: #000;
-    font-size: 1.3 rem;
+    font-size: 1 rem;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif ;
+}
+/* TODO: experiment with different colors. */
+h1{
+    
+}
+
+/* Topography */
+
+/* display */
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.image_1{
+    width: 60%;
+    margin: 20px;
+    height: 100%;
+
+}
+.name{
+    font-size: 4em;
+    margin-top: 0;
+    color: blue;
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    color: crimson;
+    
 }
