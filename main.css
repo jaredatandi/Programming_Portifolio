@@ -47,6 +47,7 @@ a{
 }
 a:hover{
     color: crimson;
+    text-decoration: none;
     
 }
 #email_btn{
