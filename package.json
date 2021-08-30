@@ -1,0 +1,25 @@
+{
+  "name": "programming_portfolio",
+  "version": "1.1.0",
+  "description": "my_portfolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d MYWEBSITE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredatandi/Programming_Portifolio.git"
+  },
+  "keywords": [
+    "Mysite"
+  ],
+  "author": "Jared Atandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredatandi/Programming_Portifolio/issues"
+  },
+  "homepage": "https://jaredatandi.github.io/Programming_Portifolio",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
