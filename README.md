@@ -6,7 +6,12 @@ all the projects that I have undertaken in regard to programming.
 Besides it being my *CV* site, it will also double up as my part of Independent Project (IP)
 at Moringa School. 
 
+# License #
 The site uses **MIT open source** licensing. 
 
 <!-- TODO: fix the live link-->
+# Hosting #
 It will be hosted on [GitHub](https://jaredatandi.github.io/Programming_Portifolio/)
+
+# Release #
+This is the first release, expect more updates in the future.
