@@ -42,6 +42,9 @@ a{
     flex-direction: row;
     justify-content: space-between;
 } 
+.container_abt div{
+width: 50%;
+}
 .abt_title{
 text-align: center;
 padding-bottom: 20px;
@@ -60,6 +63,10 @@ padding-bottom: 20px;
     font-size: 4em;
     margin-top: 0;
     color: blue;
+}
+.spn{
+    color: rgb(167, 50, 7);
+    font-size: 1.5em;
 }
 
 a:hover{
