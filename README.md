@@ -9,4 +9,4 @@ at Moringa School.
 The site uses **MIT open source** licensing. 
 
 <!-- TODO: fix the live link-->
-It will be hosted on [GitHub](https://github.com/jaredatandi/Programming_Portifolio.git)
+It will be hosted on [GitHub](https://jaredatandi.github.io/Programming_Portifolio/)
