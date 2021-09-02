@@ -9,7 +9,7 @@ all the projects that I have undertaken in regard to programming.
 Besides it being my *CV* site, it will also double up as my part of Independent Project (IP)
 at Moringa School. 
 
-##Technologies Used##
+## Technologies Used ##
 1. [HTML](https://github.com/topics/html5)
 2. [CSS](https://github.com/topics/css3)
 3. [Flexbox](https://flexbox.com)
